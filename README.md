@@ -1,5 +1,5 @@
 # 🍎 FruityVision — Fruit Recognition & Nutrition Analysis
-# FruityVision is an AI-powered application that identifies fruits from an image and provides a detailed breakdown of their nutritional value. This system uses a deep learning model built with TensorFlow/Keras for image classification and is deployed as an interactive web app using Streamlit.
+FruityVision is an AI-powered application that identifies fruits from an image and provides a detailed breakdown of their nutritional value. This system uses a deep learning model built with TensorFlow/Keras for image classification and is deployed as an interactive web app using Streamlit.
 
 # 🧠 How It Works
 The system is built in two main parts: the deep learning model and the front-end application.
@@ -24,7 +24,7 @@ The system is built in two main parts: the deep learning model and the front-end
 
     Nutrition Data: After identifying the fruit, the app looks up its nutritional information from an included CSV file and displays key values like energy, protein, vitamins, and minerals in an easy-to-read table.
 
-🗂️ Project Structure
+# 🗂️ Project Structure
 
 I've renamed demo(5).py to app.py and the notebook for clarity, which is a common practice.
 
@@ -35,7 +35,7 @@ I've renamed demo(5).py to app.py and the notebook for clarity, which is a commo
 ├── requirements.txt                   # Python dependencies
 └── README.md                          # Project documentation
 
-▶️ Getting Started
+# ▶️ Getting Started
 
     Clone the Repository
     Bash
@@ -53,7 +53,7 @@ Bash
 
     streamlit run app.py
 
-🧪 Model Notebook (Fruity_Nutrition_Model_Training.ipynb)
+# 🧪 Model Notebook (Fruity_Nutrition_Model_Training.ipynb)
 
 Explore the full model development process in the Jupyter Notebook. Key steps include:
 
@@ -67,7 +67,7 @@ Explore the full model development process in the Jupyter Notebook. Key steps in
 
     Saving the final model to my_model.h5.
 
-💡 Features
+# 💡 Features
 
     Fruit Recognition: Identifies 10 different fruits from an image.
 
@@ -79,7 +79,7 @@ Explore the full model development process in the Jupyter Notebook. Key steps in
 
     Interactive UI: Clean, simple, and responsive user interface built with Streamlit.
 
-📌 Dependencies
+# 📌 Dependencies
 
     streamlit
 
