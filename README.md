@@ -1,9 +1,7 @@
-🍎 FruityVision — Fruit Recognition & Nutrition Analysis
+# 🍎 FruityVision — Fruit Recognition & Nutrition Analysis
+# FruityVision is an AI-powered application that identifies fruits from an image and provides a detailed breakdown of their nutritional value. This system uses a deep learning model built with TensorFlow/Keras for image classification and is deployed as an interactive web app using Streamlit.
 
-FruityVision is an AI-powered application that identifies fruits from an image and provides a detailed breakdown of their nutritional value. This system uses a deep learning model built with TensorFlow/Keras for image classification and is deployed as an interactive web app using Streamlit.
-
-🧠 How It Works
-
+# 🧠 How It Works
 The system is built in two main parts: the deep learning model and the front-end application.
 
 1. Modeling (Deep Learning):
