@@ -22,18 +22,7 @@ The system is built in two main parts: the deep learning model and the front-end
 
     Prediction: The app preprocesses the input image (resizing to 224x224, normalizing pixel values) and feeds it into the loaded .h5 model to get a prediction.
 
-    Nutrition Data: After identifying the fruit, the app looks up its nutritional information from an included CSV file and displays key values like energy, protein, vitamins, and minerals in an easy-to-read table.
-
-# 🗂️ Project Structure
-
-I've renamed demo(5).py to app.py and the notebook for clarity, which is a common practice.
-
-├── app.py
-├── Fruity_Nutrition_Model_Training.ipynb 
-├── my_model.h5                      
-├── fruitsnutrition.csv                
-├── requirements.txt                  
-└── README.md                        
+    Nutrition Data: After identifying the fruit, the app looks up its nutritional information from an included CSV file and displays key values like energy, protein, vitamins, and minerals in an easy-to-read table                
 
 # ▶️ Getting Started
 
