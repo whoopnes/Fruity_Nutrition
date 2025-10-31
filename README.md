@@ -28,12 +28,12 @@ The system is built in two main parts: the deep learning model and the front-end
 
 I've renamed demo(5).py to app.py and the notebook for clarity, which is a common practice.
 
-├── app.py                             # Streamlit app frontend
-├── Fruity_Nutrition_Model_Training.ipynb  # Model training notebook
-├── my_model.h5                        # Saved Keras model
-├── fruitsnutrition.csv                # Nutritional data
-├── requirements.txt                   # Python dependencies
-└── README.md                          # Project documentation
+├── app.py
+├── Fruity_Nutrition_Model_Training.ipynb 
+├── my_model.h5                      
+├── fruitsnutrition.csv                
+├── requirements.txt                  
+└── README.md                        
 
 # ▶️ Getting Started
 
